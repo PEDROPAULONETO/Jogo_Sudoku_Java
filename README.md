@@ -33,5 +33,6 @@ A mensagem "Seu jogo conté, erros" foi corrigida para "Seu jogo contém erros. 
 
 Essas alterações visam proporcionar uma experiência mais intuitiva e informativa para o usuário durante a interação com o jogo.
 
-🔗 Links
-linkedin github
+### 🔗 Links
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEDROPAULONETO/k8s-projeto1-app-base/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulosneto/)
